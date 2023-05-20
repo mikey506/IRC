@@ -76,7 +76,7 @@ class MyBot(irc.bot.SingleServerIRCBot):
                     platform = community['platform']
                     url = community['url']
                     mods = ', '.join(community['mods'])
-                    output = f"**Name:** {community_name} >> **Total Members/Subscribers:** {total_members} >> **Platform:** {platform} >> **URL:** {url} >> **Mods:** {mods}"
+                    output = f"Name:** {community_name} ** >> Size:** {total_members} **>>** {platform} **>>** {url}"
                     self.send_message(connection, target, output)
             else:
                 self.send_message(connection, target, f"No communities found for {city}")
