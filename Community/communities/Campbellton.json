@@ -1,1 +1,34 @@
 
+    {
+        "community_name": "Campbellton_Intense_discussion",
+        "total_members": 4408,
+        "platform": "Facebook",
+        "city_tag": "Campbellton",
+        "url": "https://www.facebook.com/groups/CampbelltonIntense",
+        "mods": [
+            "FancyMod235",
+            "fbperson.32"
+        ]
+    },
+    {
+        "community_name": "Campbellton_funny_moments",
+        "total_members": 544,
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/groups/terriblyfunnyshit/",
+        "mods": [
+            "existbarely",
+            "FaeDee",
+            "dukeofCampbellot"
+        ]
+    },
+    {
+        "community_name": "/r/CampbelltonPimps",
+        "total_members": "343",
+        "platform": "Reddit",
+        "url": "https://www.reddit.com/r/CampbelltonPimps/",
+        "mods": [
+            "Turds4thelose",
+            "JohnnyOffHismeds"
+        ]
+    }
+]
